@@ -1,0 +1,112 @@
+.large1 {
+    height: 30vmin;
+    background-image: url(./assets/large1.svg);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 10em;
+}
+
+.large2 {
+    height: 30vmin;
+    background-image: url(./assets/large2.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.large3 {
+    height: 30vmin;
+    background-image: url(./assets/large3.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.large4 {
+    height: 30vmin;
+    background-image: url(./assets/large4.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.large5 {
+    height: 30vmin;
+    background-image: url(./assets/large5.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.large6 {
+    height: 30vmin;
+    background-image: url(./assets/large6.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.large7 {
+    height: 30vmin;
+    background-image: url(./assets/large7.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium1 {
+    height: 20vmin;
+    background-image: url(./assets/medium1.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium2 {
+    height: 20vmin;
+    background-image: url(./assets/medium2.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium3 {
+    height: 20vmin;
+    background-image: url(./assets/medium3.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium4 {
+    height: 20vmin;
+    background-image: url(./assets/medium4.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium5 {
+    height: 20vmin;
+    background-image: url(./assets/medium5.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.medium6 {
+    height: 20vmin;
+    background-image: url(./assets/medium6.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.small1 {
+    height: 12vmin;
+    background-image: url(./assets/small1.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.small2 {
+    height: 20vmin;
+    background-image: url(./assets/small2.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
+
+.small3 {
+    height: 12vmin;
+    background-image: url(./assets/small3.svg);
+    background-repeat: no-repeat;
+    width: 10em;
+}
